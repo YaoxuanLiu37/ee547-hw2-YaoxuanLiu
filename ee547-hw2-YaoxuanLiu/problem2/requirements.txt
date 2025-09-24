@@ -1,2 +1,0 @@
-# PyTorch installed separately in Dockerfile
-# Add any other minimal dependencies here
